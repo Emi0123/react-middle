@@ -3,7 +3,7 @@ import styled from "styled-components";
 export const Top = () => {
   return (
     <SContainer>
-      <h2>TOPぺーぞ</h2>
+      <h2>TOPぺージ</h2>
     </SContainer>
   );
 };
